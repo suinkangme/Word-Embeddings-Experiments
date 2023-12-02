@@ -26,7 +26,7 @@ often,frequently,frequently,correct
 easygoing,relaxed,,guess
 debate,argument,competition,wrong
 narrow,thin,thin,correct
-arranged,planned,explained,wrong
+arranged,planned,studied,wrong
 infinite,limitless,unusual,wrong
 showy,striking,prickly,wrong
 levied,imposed,,guess
@@ -47,7 +47,7 @@ physician,doctor,doctor,correct
 essentially,basically,ordinarily,wrong
 keen,sharp,sharp,correct
 situated,positioned,isolated,wrong
-principal,major,numerous,wrong
+principal,major,exceptional,wrong
 slowly,gradually,gradually,correct
 built,constructed,constructed,correct
 tasks,jobs,materials,wrong
@@ -55,12 +55,12 @@ unlikely,improbable,improbable,correct
 halfheartedly,apathetically,,guess
 annals,chronicles,,guess
 wildly,furiously,furiously,correct
-hailed,acclaimed,judged,wrong
+hailed,acclaimed,addressed,wrong
 command,mastery,observation,wrong
 concocted,devised,,guess
 prospective,potential,prominent,wrong
 generally,broadly,accurately,wrong
-sustained,prolonged,refined,wrong
+sustained,prolonged,lowered,wrong
 perilous,dangerous,exciting,wrong
 tranquillity,peacefulness,weariness,wrong
 dissipate,disperse,disguise,wrong
@@ -73,7 +73,7 @@ percentage,proportion,,guess
 terminated,ended,,guess
 uniform,alike,complex,wrong
 figure,solve,list,wrong
-sufficient,enough,enough,correct
+sufficient,enough,valuable,wrong
 fashion,manner,manner,correct
 marketed,sold,,guess
 bigger,larger,larger,correct

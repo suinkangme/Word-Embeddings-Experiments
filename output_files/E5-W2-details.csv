@@ -3,7 +3,7 @@ enormously,tremendously,,guess
 provisions,stipulations,interpretations,wrong
 haphazardly,randomly,,guess
 prominent,conspicuous,conspicuous,correct
-zenith,pinnacle,completion,wrong
+zenith,pinnacle,outset,wrong
 flawed,imperfect,,guess
 urgently,desperately,,guess
 consumed,eaten,supplied,wrong
@@ -12,7 +12,7 @@ concisely,succinctly,,guess
 salutes,greetings,,guess
 solitary,alone,restless,wrong
 hasten,accelerate,permit,wrong
-perseverance,endurance,disturbance,wrong
+perseverance,endurance,endurance,correct
 fanciful,imaginative,imaginative,correct
 showed,demonstrated,repeated,wrong
 constantly,continually,continually,correct
@@ -24,7 +24,7 @@ spot,location,sea,wrong
 make,earn,earn,correct
 often,frequently,frequently,correct
 easygoing,relaxed,,guess
-debate,argument,election,wrong
+debate,argument,argument,correct
 narrow,thin,thin,correct
 arranged,planned,studied,wrong
 infinite,limitless,unusual,wrong
@@ -36,11 +36,11 @@ discrepancies,differences,,guess
 prolific,productive,,guess
 unmatched,unequaled,,guess
 peculiarly,uniquely,partly,wrong
-hue,color,contrast,wrong
+hue,color,scent,wrong
 hind,rear,curved,wrong
 highlight,accentuate,,guess
 hastily,hurriedly,hurriedly,correct
-temperate,mild,windy,wrong
+temperate,mild,mild,correct
 grin,smile,smile,correct
 verbally,orally,,guess
 physician,doctor,doctor,correct
@@ -51,7 +51,7 @@ principal,major,exceptional,wrong
 slowly,gradually,gradually,correct
 built,constructed,constructed,correct
 tasks,jobs,shops,wrong
-unlikely,improbable,improbable,correct
+unlikely,improbable,disagreeable,wrong
 halfheartedly,apathetically,,guess
 annals,chronicles,,guess
 wildly,furiously,furiously,correct
@@ -61,7 +61,7 @@ concocted,devised,,guess
 prospective,potential,prominent,wrong
 generally,broadly,accurately,wrong
 sustained,prolonged,refined,wrong
-perilous,dangerous,exciting,wrong
+perilous,dangerous,binding,wrong
 tranquillity,peacefulness,weariness,wrong
 dissipate,disperse,disguise,wrong
 primarily,chiefly,,guess
@@ -71,7 +71,7 @@ feasible,possible,,guess
 expeditiously,rapidly,,guess
 percentage,proportion,,guess
 terminated,ended,,guess
-uniform,alike,alike,correct
+uniform,alike,complex,wrong
 figure,solve,list,wrong
 sufficient,enough,valuable,wrong
 fashion,manner,manner,correct
